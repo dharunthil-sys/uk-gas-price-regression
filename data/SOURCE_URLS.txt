@@ -1,0 +1,3 @@
+ONS SAP gas: https://www.ons.gov.uk/file?uri=/economy/economicoutputandproductivity/output/datasets/systemaveragepricesapofgas/2026/systemaveragepriceofgasdataset221026.xlsx
+FRED DCOILBRENTEU: https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU
+FRED DEXUSUK: https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXUSUK
